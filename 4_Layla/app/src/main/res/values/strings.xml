@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">4_Layla</string>
+    <string name="LeftButton">Left</string>
+    <string name="CenterButton">Center</string>
+    <string name="RightButton">Right</string>
+    <string name="BottomButton">Bottom</string>
+</resources>
